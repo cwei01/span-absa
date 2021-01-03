@@ -2,10 +2,8 @@
 
 This repo contains the code and data of the following paper:
 
-In this paper, we design a novel span-based framework for the task of targeted sentiment analysis., which is shown as below:
-<p>
-<img src="image/model.PNG" width="600">
-</p>
+In this paper, we design a novel span-based framework for the task of targeted sentiment analysis., which is shown in image/:
+
 
 This framework consists of two components:  
 - Aspect extraction  
