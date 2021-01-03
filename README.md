@@ -14,6 +14,7 @@ Both of two components utilize [BERT](https://github.com/huggingface/pytorch-pre
 ## Requirements
 - Python 3
 - [Pytorch 1.1](https://pytorch.org/) 
+- NumPy 1.17.2
 
 Download the uncased [BERT-Base](https://drive.google.com/file/d/13I0Gj7v8lYhW5Hwmp5kxm3CTlzWZuok2/view?usp=sharing) model and unzip it in the current directory. 
 
